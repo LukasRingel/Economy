@@ -41,4 +41,14 @@ public class EconomyHttpServerBeans {
                 properties.getProperty("mysql.database"));
     }
 
+    /**
+     * This bean provides our application properties
+     *
+     * @return - our properties
+     */
+    @Bean
+    public Properties properties() {
+        return properties;
+    }
+
 }
