@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LukasRingel/Economy">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Economy</h3>
@@ -19,9 +19,9 @@
 
 ## Built With
 
-* []() Java
-* []() Spring Famework
-* []() MariaDB
+* []() <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/> Java
+* []() <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> Spring Famework
+* []() <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="20" height="20"/> MySQL
 
 ## Contributing
 
